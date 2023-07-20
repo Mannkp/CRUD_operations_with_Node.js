@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Mann Pandya",
+    "age": 20,
+    "email": "mann@gmail.com",
+    "address": "123, vadodara, gujarat"
+  },
+  {
+    "id": 2,
+    "name": "Jiya Pandya",
+    "age": 15,
+    "email": "jiya@gmail.com",
+    "address": "123, vadodara, gujarat"
+  },
+  {
+    "id": 3,
+    "name": "Bindu Pandya",
+    "age": 49,
+    "email": "Bindu@gmail.com",
+    "address": "123, vadodara, gujarat"
+  },
+  {
+    "id": 4,
+    "name": "Ketankumar Pandya",
+    "age": 50,
+    "email": "ketan@gmail.com",
+    "address": "123, vadodara, gujarat"
+  },
+  {
+    "id": 1689880203981,
+    "name": "new Pandya",
+    "age": 22,
+    "email": "new@gmail.com",
+    "address": "123, vadodara, gujarat"
+  }
+]
